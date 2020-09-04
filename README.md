@@ -1,4 +1,4 @@
-# generate_your_business_card
+## Generate your business card
 
 A new Flutter application.
 
